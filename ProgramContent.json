@@ -1,141 +1,218 @@
-﻿[{
-	"ExerciseName": "Squats",
-	"Sets": 5,
-	"Reps": 5,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Legs"
-}, {
-	"ExerciseName": "Front Squats",
-	"Sets": 3,
-	"Reps": 8,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Legs"
-}, {
-	"ExerciseName": "Roamnian Deadlifts",
-	"Sets": 3,
-	"Reps": 8,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Legs"
-}, {
-	"ExerciseName": "Leg Curls",
-	"Sets": 3,
-	"Reps": 10,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Legs"
-}, {
-	"ExerciseName": "Bench Press",
-	"Sets": 5,
-	"Reps": 5,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Chest"
-}, {
-	"ExerciseName": "Incline Bench Press",
-	"Sets": 3,
-	"Reps": 8,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Chest"
-}, {
-	"ExerciseName": "Dips",
-	"Sets": 3,
-	"Reps": 10,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Chest"
-}, {
-	"ExerciseName": "Skull Crushers",
-	"Sets": 3,
-	"Reps": 8,
-	"Weight": "",
-	"Superset": "Superset",
-	"Day": "Chest"
-}, {
-	"ExerciseName": "Close Grip Bench",
-	"Sets": 3,
-	"Reps": 8,
-	"Weight": "",
-	"Superset": "Superset",
-	"Day": "Chest"
-}, {
-	"ExerciseName": "Tricep Extensions",
-	"Sets": 3,
-	"Reps": 30,
-	"Weight": "",
-	"Superset": "Dropset",
-	"Day": "Chest"
-}, {
-	"ExerciseName": "Deadlifts",
-	"Sets": 5,
-	"Reps": 5,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Back"
-}, {
-	"ExerciseName": "Pull Ups",
-	"Sets": 3,
-	"Reps": 10,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Back"
-}, {
-	"ExerciseName": "Barbell Rows",
-	"Sets": 3,
-	"Reps": 8,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Back"
-}, {
-	"ExerciseName": "Hammer Curls",
-	"Sets": 3,
-	"Reps": 10,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Back"
-}, {
-	"ExerciseName": "Cable Curls",
-	"Sets": 3,
-	"Reps": 30,
-	"Weight": "",
-	"Superset": "Dropset",
-	"Day": "Back"
-}, {
-	"ExerciseName": "Military Press",
-	"Sets": 5,
-	"Reps": 5,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Shoulders"
-}, {
-	"ExerciseName": "Dumbell Shoulder Press",
-	"Sets": 3,
-	"Reps": 8,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Shoulders"
-}, {
-	"ExerciseName": "Dumbell Lateral Raise",
-	"Sets": 3,
-	"Reps": 10,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Shoulders"
-}, {
-	"ExerciseName": "Cable Lateral Raise",
-	"Sets": 3,
-	"Reps": 10,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Shoulders"
-}, {
-	"ExerciseName": "Face Pulls",
-	"Sets": 3,
-	"Reps": 12,
-	"Weight": "",
-	"Superset": "",
-	"Day": "Shoulders"
-}]
+﻿[
+  {
+    "ExerciseId": "1",
+    "ExerciseName": "Squats",
+    "Sets": "5",
+    "Reps": "5",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Legs"
+  },
+  {
+    "ExerciseId": "2",
+    "ExerciseName": "Romanian Dead Lifts",
+    "Sets": "2",
+    "Reps": "12",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Legs"
+  },
+  {
+    "ExerciseId": "3",
+    "ExerciseName": "Lunges",
+    "Sets": "3",
+    "Reps": "8",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Legs"
+  },
+  {
+    "ExerciseId": "4",
+    "ExerciseName": "Leg Press",
+    "Sets": "2",
+    "Reps": "12",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Legs"
+  },
+  {
+    "ExerciseId": "5",
+    "ExerciseName": "Leg Curls",
+    "Sets": "2",
+    "Reps": "15",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Legs"
+  },
+  {
+    "ExerciseId": "6",
+    "ExerciseName": "Bench Press",
+    "Sets": "5",
+    "Reps": "5",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Chest"
+  },
+  {
+    "ExerciseId": "7",
+    "ExerciseName": "Incline Bench Press",
+    "Sets": "2",
+    "Reps": "8",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Chest"
+  },
+  {
+    "ExerciseId": "8",
+    "ExerciseName": "Flyes",
+    "Sets": "2",
+    "Reps": "12",
+    "Weight": null,
+    "Superset": null,
+    "Day": "2"
+  },
+  {
+    "ExerciseId": "9",
+    "ExerciseName": "Dips",
+    "Sets": "2",
+    "Reps": "10",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Chest"
+  },
+  {
+    "ExerciseId": "10",
+    "ExerciseName": "Skull Crushers",
+    "Sets": "2",
+    "Reps": "10",
+    "Weight": null,
+    "Superset": "Superset",
+    "Day": "Chest"
+  },
+  {
+    "ExerciseId": "11",
+    "ExerciseName": "Close Grip Bench",
+    "Sets": "2",
+    "Reps": "10",
+    "Weight": null,
+    "Superset": "Superset",
+    "Day": "Chest"
+  },
+  {
+    "ExerciseId": "12",
+    "ExerciseName": "Rope Tricep Pushdowns",
+    "Sets": "2",
+    "Reps": "30",
+    "Weight": null,
+    "Superset": "Dropset",
+    "Day": "Chest"
+  },
+  {
+    "ExerciseId": "13",
+    "ExerciseName": "Pull Ups",
+    "Sets": "3",
+    "Reps": "10",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Back"
+  },
+  {
+    "ExerciseId": "14",
+    "ExerciseName": "Deadlifts",
+    "Sets": "5",
+    "Reps": "5",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Back"
+  },
+  {
+    "ExerciseId": "15",
+    "ExerciseName": "Barbell Rows",
+    "Sets": "2",
+    "Reps": "12",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Back"
+  },
+  {
+    "ExerciseId": "16",
+    "ExerciseName": "Lat Pulldowns",
+    "Sets": "3",
+    "Reps": "12",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Back"
+  },
+  {
+    "ExerciseId": "17",
+    "ExerciseName": "Dumbell Curls",
+    "Sets": "3",
+    "Reps": "10",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Back"
+  },
+  {
+    "ExerciseId": "18",
+    "ExerciseName": "Rope Hammer Curls",
+    "Sets": "2",
+    "Reps": "30",
+    "Weight": null,
+    "Superset": "Dropset",
+    "Day": "Back"
+  },
+  {
+    "ExerciseId": "19",
+    "ExerciseName": "Dumbell Press",
+    "Sets": "5",
+    "Reps": "5",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Shoulders"
+  },
+  {
+    "ExerciseId": "20",
+    "ExerciseName": "Push Press",
+    "Sets": "3",
+    "Reps": "5",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Shoulders"
+  },
+  {
+    "ExerciseId": "21",
+    "ExerciseName": "Dumbell Lateral Raise",
+    "Sets": "2",
+    "Reps": "10",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Shoulders"
+  },
+  {
+    "ExerciseId": "22",
+    "ExerciseName": "Cable Lateral Raise",
+    "Sets": "2",
+    "Reps": "15",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Shoulders"
+  },
+  {
+    "ExerciseId": "23",
+    "ExerciseName": "Face Pulls",
+    "Sets": "2",
+    "Reps": "10",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Shoulders"
+  },
+  {
+    "ExerciseId": "24",
+    "ExerciseName": "Rear Flyes",
+    "Sets": "2",
+    "Reps": "15",
+    "Weight": null,
+    "Superset": null,
+    "Day": "Shoulders"
+  }
+]
